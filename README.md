@@ -1,5 +1,19 @@
-- 👋 Hi, I’m Anas M.
-- 👀 I’m interested in Flutter & Dart
-- 💞️ I’m looking to collaborate on making life easier with programming
+<h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/33700292/101157406-eec79080-35de-11eb-9543-5c57727a309b.gif" alt="Wave Emoji"  width="54px" />, I'm <br><b>Anas Mohamed</b></h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdOoSaed&label=Visitors&style=flat-square" alt="Visitors"/></p>
 
+- 🔭 I’m currently working on ... personal projects
+- 🌱 I’m currently learning ... Flutter & Dart
+- 📫 How to reach me: ... <a href="http://abdosaed.ml" target="_blank">**abdosaed.ml**</a> ,<a href="mailto:me@abdosaed.ml">**me@abdosaed.ml**</a>
+
+  <img src="https://media2.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" alt="gif" width="450" />
+ 
+
+                                                                                              
+### Languages and Tools:
+
+<code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> </code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/></code>
