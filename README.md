@@ -4,9 +4,8 @@
 
 - 🔭 I’m currently working on ... personal projects
 - 🌱 I’m currently learning ... Flutter & Dart
-- 📫 How to reach me: ... <a href="http://abdosaed.ml" target="_blank">**abdosaed.ml**</a> ,<a href="mailto:me@abdosaed.ml">**me@abdosaed.ml**</a>
 
-  <img src="https://media2.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" alt="gif" width="450" />
+  <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="gif" width="450" />
  
 
                                                                                               
