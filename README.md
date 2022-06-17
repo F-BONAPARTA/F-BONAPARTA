@@ -1,8 +1,5 @@
-<h1 align="center">Hi there</h1>
-
-
-- 🔭 I’m currently working on ... personal projects
-- 🌱 I’m currently learning ... Flutter & Dart
+- 🔭 I’m currently working on ... freelance projects
+- 🌱 I’m currently mastering ... Flutter & Dart
 
   <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="gif" width="450" />
  
